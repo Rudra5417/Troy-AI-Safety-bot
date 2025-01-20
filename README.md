@@ -14,6 +14,9 @@
 
 ![image](https://github.com/Rudra5417/Troy-AI-Safety-bot/assets/60398030/46b4cf14-a4a4-4cdb-919d-19eaef27aeac)
 
+[Watch the demo video on YouTube](https://www.youtube.com/watch?v=6rd7fnJJt9M&t=307s)
+
+
 
 
 
